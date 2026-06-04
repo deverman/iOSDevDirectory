@@ -4912,6 +4912,14 @@
             "x_url": "https://x.com/pasql"
           },
           {
+            "title": "Raja Vijayaraman's Writings",
+            "author": "Raja Vijayaraman",
+            "site_url": "https://rajavijayaraman.com",
+            "feed_url": "https://rajavijayaraman.com/rss.xml",
+            "x_url": "https://x.com/rajavijayaraman",
+            "github_url": "https://github.com/rajavijayaraman"
+          },
+          {
             "title": "Sahand Nayebaziz's Blog",
             "author": "Sahand Nayebaziz",
             "site_url": "https://sahandnayebaziz.org/",
